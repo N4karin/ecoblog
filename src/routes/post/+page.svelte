@@ -10,7 +10,7 @@
     <!-- Header -->
     <div class="flex justify-between pt-12 sm:pb-8 lg:pb-28">
         <a href="/">
-            <img src="/images/icon.png" alt="Logo" class="h-12" />
+            <img src="images/icon.png" alt="Logo" class="h-12" />
         </a>
 
         <a href="/" class="inline-block px-5 my-3 border font-semibold border-black rounded-full text-black bg-white hover:bg-black hover:text-white transition duration-100">

@@ -22,10 +22,7 @@
                 <p class="post-content text-xl">
                     {post.content}
                 </p>
-                <a
-                    href={`/post?id=${post.slug}`}
-                    class="inline-block font-semibold px-4 py-1 border border-black rounded-full text-black bg-white hover:bg-black hover:text-white transition duration-100 mt-8"
-                >
+                <a href={`/post?id=${post.slug}`} class="inline-block font-semibold px-4 py-1 border border-black rounded-full text-black bg-white hover:bg-black hover:text-white transition duration-100 mt-8">
                     Read more
                 </a>
             </div>

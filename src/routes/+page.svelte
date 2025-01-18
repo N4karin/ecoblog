@@ -10,7 +10,7 @@
     <!-- Header -->
     <div class="flex pt-12 pb-8">
         <a href="/">
-            <img src="src/images/icon.png" alt="Logo" class="h-12" />
+            <img src="images/icon.png" alt="Logo" class="h-12" />
         </a>
     </div>
     <!-- Body -->

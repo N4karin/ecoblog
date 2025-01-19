@@ -14,7 +14,7 @@
         </a>
     </div>
     <!-- Body -->
-    <div class="md:py-56 grid grid-cols-1 md:grid-cols-3 sm:grid-cols-2 gap-24">
+    <div class="md:py-56 grid grid-cols-1 md:grid-cols-3 sm:grid-cols-2 gap-24 pb-4">
         {#each posts as post}
             <div class="max-w-md">
                 <p class="font-semibold">{post.date}</p>

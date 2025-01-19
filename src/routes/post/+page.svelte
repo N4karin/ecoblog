@@ -8,7 +8,7 @@
 
 <div class="px-16">
     <!-- Header -->
-    <div class="flex justify-between pt-12 sm:pb-8 lg:pb-28">
+    <div class="flex justify-between pt-12 lg:pb-20">
         <a href="/">
             <img src="images/icon.png" alt="Logo" class="h-12" />
         </a>
@@ -18,7 +18,7 @@
         </a>
     </div>
     <!-- Body -->
-    <div>
+    <div class="pt-8">
         <div>
             <h2 class="text-sm font-semibold pb-2">{post.date}</h2>
             <h1 class="text-2xl font-bold">{post.title}</h1>

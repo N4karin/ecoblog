@@ -5,7 +5,7 @@ export const load: PageLoad = async (event) => {
     const response = await event.fetch('/posts.json');
     const posts = await response.json();
 
-    // Pass post to +page.svelte
+    // Pass posts to +page.svelte
     return {
         props: {
             posts,
